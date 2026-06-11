@@ -22,12 +22,12 @@ load_dotenv()
 # CONFIGURAÇÕES
 # =========================
 
-MODEL_TFLITE_PATH = "/home/duos/Documents/Norton/LLMs/bladder_llm/model.tflite"
-VIDEO_PATH = "/home/duos/Documents/Norton/LLMs/bladder_llm/video_yuuki_long.mp4"
+MODEL_TFLITE_PATH = "ADD-PATH"
+VIDEO_PATH = "ADD-PATH"
 
-OUTPUT_VIDEO = "/home/duos/Documents/Norton/LLMs/bladder_llm/video_yuuki_long_result.mp4"
-OUTPUT_AUDIO = "/home/duos/Documents/Norton/LLMs/bladder_llm/video_yuuki_long_result_audio.mp3"
-VIDEO_FINAL = "/home/duos/Documents/Norton/LLMs/bladder_llm/video_final_bladder_llm.mp4"
+OUTPUT_VIDEO = "ADD-PATH"
+OUTPUT_AUDIO = "ADD-PATH"
+VIDEO_FINAL = "ADD-PATH"
 
 CONF_MINIMA = 0.70
 ANALISAR_A_CADA_N_FRAMES = 90
