@@ -1,0 +1,133 @@
+# =========================
+# Ambiente virtual
+# =========================
+.venv/
+venv/
+
+# =========================
+# Variáveis de ambiente
+# =========================
+.env
+.env.*
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+.history/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Modelos treinados
+# =========================
+*.tflite
+*.keras
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# =========================
+# Vídeos
+# =========================
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# =========================
+# Áudios
+# =========================
+*.mp3
+*.wav
+
+# =========================
+# Imagens temporárias
+# =========================
+*.png
+*.jpg
+*.jpeg
+
+# =========================
+# TensorBoard
+# =========================
+logs/
+tensorboard/
+
+# =========================
+# Arquivos temporários
+# =========================
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Sistema operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Diretórios de dados
+# =========================
+datasets/
+dataset/
+data/
+database/
+documents/
+
+# =========================
+# Resultados e saídas
+# =========================
+results/
+outputs/
+output/
+predictions/
+exports/
+
+# =========================
+# Treinamentos
+# =========================
+checkpoints/
+weights/
+models/
+runs/
+experiments/
+
+# =========================
+# Cache
+# =========================
+.cache/
+pytest_cache/
+.mypy_cache/
+
+# =========================
+# Projetos de ultrassom
+# =========================
+bladder_llm/results/
+bladder_llm/videos/
+
+guidance_llm/results/
+guidance_llm/videos/
+
+needle/results/
+needle/videos/
+needle/database/
+python_ai
