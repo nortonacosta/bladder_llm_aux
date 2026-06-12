@@ -47,7 +47,6 @@ modelo = ChatOpenAI(
 prompt_guide_bladder = ChatPromptTemplate.from_messages(
     [
         ("system", """
-            Apresente-se como Duanete.
             Você é uma auxiliar de aquisição de imagens de ultrassom da bexiga em tempo real.
 
             Sua função é orientar o operador com base em dados de segmentação da bexiga.
